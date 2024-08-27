@@ -1,7 +1,7 @@
 # Hey! 👋 I'm Qasim #
 A passionate QA/SDET from London
 
-## 🚀 Languages and Tools I Use ##
+## 👨‍💻 Tech Stack ##
 ### Languages: ###
 <a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.javascript.com/" style="display: inline-block;"><img src="https://skillicons.dev/icons?i=js" alt="js" width="42" height="42"  /></a>
@@ -41,7 +41,7 @@ A passionate QA/SDET from London
 - Maestro (coming soon!)
 
 ### API Test Automation: ###
-- Postman and Newman (coming soon!)
+- [Postman and GitHub Actions](https://github.com/qasimmahmood95/postman-api-automation)
 - Playwright and TypeScript (coming soon!)
 - Cypress and JavaScript (coming soon!)
 
