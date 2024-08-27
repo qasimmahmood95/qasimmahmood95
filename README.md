@@ -11,7 +11,7 @@ A passionate QA/SDET from London
 
 ### Automation Frameworks: ###
 <a target="_blank" href="https://playwright.dev/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="42" height="42" /></a>
-<a target="_blank" href="https://www.cypress.io/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="cypress" width="42" height="42"  /></a>
+<a target="_blank" href="https://www.cypress.io/" style="display: inline-block;"><img src="https://drive.google.com/thumbnail?id=1c4Nfj4yTT-kGYzzcamLt6txQca5w09ts" alt="cypress" width="42" height="42"  /></a>
 <a target="_blank" href="https://appium.io/" style="display: inline-block;"><img src="https://static-00.iconduck.com/assets.00/appium-icon-511x512-jbl29mpi.png" alt="appium" width="42" height="42"  /></a>
 <a target="_blank" href="https://www.selenium.dev/" style="display: inline-block;"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="42" height="42"  /></a>
 
