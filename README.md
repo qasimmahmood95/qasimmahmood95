@@ -43,7 +43,7 @@ A passionate QA/SDET from London
 
 ### API Test Automation: ###
 - [Postman and GitHub Actions](https://github.com/qasimmahmood95/postman-api-automation)
-- Playwright and TypeScript (coming soon!)
+- [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-api-automation-ts)
 - Cypress and JavaScript (coming soon!)
 
 ## ⚡️ Where to find me ##
