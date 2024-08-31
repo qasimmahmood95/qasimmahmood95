@@ -33,8 +33,8 @@ A passionate QA/SDET from London
 
 ## 🚀 Current projects ##
 ### Web UI Test Automation: ###
-- [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-demo-ts)
-- [Cypress and JavaScript](https://github.com/qasimmahmood95/cypress-demo)
+- [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-web-automation-ts)
+- [Cypress and JavaScript](https://github.com/qasimmahmood95/cypress-web-automation-js)
 - Selenium (coming soon!)
 
 ### Mobile UI Test Automation: ###
@@ -44,7 +44,7 @@ A passionate QA/SDET from London
 ### API Test Automation: ###
 - [Postman and GitHub Actions](https://github.com/qasimmahmood95/postman-api-automation)
 - [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-api-automation-ts)
-- Cypress and JavaScript (coming soon!)
+- [Cypress and JavaScript](https://github.com/qasimmahmood95/cypress-api-automation-js)
 
 ## ⚡️ Where to find me ##
 <p><a target="_blank" href="https://www.linkedin.com/in/qmahmood95" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
