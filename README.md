@@ -46,6 +46,7 @@ A passionate QA/SDET from London
 - [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-api-automation-ts)
 - [Cypress and JavaScript](https://github.com/qasimmahmood95/cypress-api-automation-js)
 - [Python, Pytest and Requests](https://github.com/qasimmahmood95/python-api-automation)
+- [Bruno](https://github.com/qasimmahmood95/bruno-api-automation)
 
 ## ⚡️ Where to find me ##
 <p><a target="_blank" href="https://www.linkedin.com/in/qmahmood95" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
