@@ -2,34 +2,49 @@
 A passionate QA/SDET from London
 
 ## 👨‍💻 Tech Stack ##
+
 ### Languages: ###
-<a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://www.javascript.com/" style="display: inline-block;"><img src="https://skillicons.dev/icons?i=js" alt="js" width="42" height="42"  /></a>
-<a target="_blank" href="https://www.typescriptlang.org/" style="display: inline-block;"><img src="https://skillicons.dev/icons?i=ts" alt="ts" width="42" height="42"  /></a>
-<a target="_blank" href="https://www.java.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://www.mysql.com/" style="display: inline-block;"><img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" alt="sql" height="42" /></a>
+<table>
+  <tr>
+    <td><a target="_blank" href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="js" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="ts" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="42" height="42" /></a></td>
+  </tr>
+</table>
 
 ### Automation Frameworks: ###
-<a target="_blank" href="https://playwright.dev/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="42" height="42" /></a>
-<a target="_blank" href="https://www.cypress.io/" style="display: inline-block;"><img src="https://drive.google.com/thumbnail?id=1c4Nfj4yTT-kGYzzcamLt6txQca5w09ts" alt="cypress" width="42" height="42"  /></a>
-<a target="_blank" href="https://www.mobile.dev/" style="display: inline-block;"><img src="https://drive.google.com/thumbnail?id=1A_2Y-NwHtar00YHcp_-p8kqbZ0wy9xNa" alt="maestro" width="42" height="42"  /></a>
-<a target="_blank" href="https://appium.io/" style="display: inline-block;"><img src="https://static-00.iconduck.com/assets.00/appium-icon-511x512-jbl29mpi.png" alt="appium" width="42" height="42"  /></a>
-<a target="_blank" href="https://www.selenium.dev/" style="display: inline-block;"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="42" height="42"  /></a>
+<table>
+  <tr>
+    <td><a target="_blank" href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.cypress.io/"><img src="https://drive.google.com/thumbnail?id=1c4Nfj4yTT-kGYzzcamLt6txQca5w09ts" alt="cypress" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.mobile.dev/"><img src="https://drive.google.com/thumbnail?id=1A_2Y-NwHtar00YHcp_-p8kqbZ0wy9xNa" alt="maestro" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://appium.io/"><img src="https://static-00.iconduck.com/assets.00/appium-icon-511x512-jbl29mpi.png" alt="appium" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="42" height="42" /></a></td>
+  </tr>
+</table>
 
 ### Tools: ###
-<a target="_blank" href="https://git-scm.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://www.mysql.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.postman.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://cucumber.io/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="selenium" width="42" height="42"  /></a>
-<a target="_blank" href="https://jestjs.io/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
-<a target="_blank" href="https://mochajs.org/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="42" height="42" /></a>
+<table>
+  <tr>
+    <td><a target="_blank" href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://cucumber.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="selenium" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://jestjs.io/"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://mochajs.org/"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="42" height="42" /></a></td>
+  </tr>
+</table>
 
 ### Cloud: ###
-<a target="_blank" href="https://azure.microsoft.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-<a target="_blank" href="https://aws.amazon.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://cloud.google.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="42" height="42" /></a>
-          
-
+<table>
+  <tr>
+    <td><a target="_blank" href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="42" height="42" /></a></td>
+  </tr>
+</table>
 
 ## 🚀 Current projects ##
 ### Web UI Test Automation: ###
