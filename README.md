@@ -1,8 +1,8 @@
-# Hey! 👋 I'm Qasim — Senior SDET at Zodia Custody #
+# Hey! 👋 I'm Qasim, Senior SDET at Zodia Custody #
 
-I break software professionally so your users don't have to. I'm a Senior SDET at [Zodia Custody](https://www.zodia.io/) — the Standard Chartered-backed institutional digital asset custodian — where I build test automation for systems that really, really can't be wrong. Based in London, fluent in API, UI, and performance testing across microservices.
+I break software professionally so your users don't have to. I'm a Senior SDET at [Zodia Custody](https://www.zodia.io/), the Standard Chartered-backed institutional digital asset custodian, where I build test automation for systems that really can't be wrong. Based in London, working across API, UI and performance testing on microservices.
 
-> **Testing philosophy:** test code deserves the same rigour as production code — if it's flaky, it's lying to you.
+> **Testing philosophy:** test code deserves the same rigour as production code. If it's flaky, it's lying to you.
 
 ## 👨‍💻 Tech Stack ##
 
@@ -57,21 +57,33 @@ I break software professionally so your users don't have to. I'm a Senior SDET a
 
 ## 🚀 Projects ##
 
+### 🏛️ Regulated QA engineering: ###
+- [VaultChain](https://github.com/qasimmahmood95/vaultchain) - fictional digital-asset custody platform built as the system-under-test for a four-layer Playwright suite with a required compliance CI gate
+- [test-evidence-packs](https://github.com/qasimmahmood95/test-evidence-packs) - Playwright reporter + CLI that turns test runs into audit-ready, tamper-evident evidence packs
+- [spec-to-suite](https://github.com/qasimmahmood95/spec-to-suite) - turns OpenAPI 3.1 specs into reviewable Playwright API tests, gated by human review and mutation testing
+- [flake-forensics](https://github.com/qasimmahmood95/flake-forensics) - statistically honest flake analysis: Wilson intervals, failure clustering, changepoint detection
+- [llm-evals-ts](https://github.com/qasimmahmood95/llm-evals-ts) - LLM evals with QA discipline: judges must pass calibration before they may gate
+
 ### Web UI Test Automation: ###
-- [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-web-automation-ts) — end-to-end web UI suite built on Playwright's test runner
-- [Cypress and JavaScript](https://github.com/qasimmahmood95/cypress-web-automation-js) — browser UI automation with Cypress
+- [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-web-automation-ts) - cross-browser E2E suite with accessibility, visual and performance test dimensions
+- [Cypress and JavaScript](https://github.com/qasimmahmood95/cypress-web-automation-js) - E2E framework with session-cached auth and axe accessibility gating
+- [TestCafe and Cucumber](https://github.com/qasimmahmood95/direct-ferries-automation-test) - BDD E2E suite with a cross-browser CI matrix and nightly runs
 
 ### API Test Automation: ###
-- [Postman and GitHub Actions](https://github.com/qasimmahmood95/postman-api-automation) — Postman collections running in CI via GitHub Actions
-- [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-api-automation-ts) — API testing with Playwright's built-in request context
-- [Cypress and JavaScript](https://github.com/qasimmahmood95/cypress-api-automation-js) — API checks with Cypress, no browser required
-- [Python, Pytest and Requests](https://github.com/qasimmahmood95/python-api-automation) — API tests in Python with pytest fixtures and requests
-- [Bruno](https://github.com/qasimmahmood95/bruno-api-automation) — API collections with Bruno, the open-source Postman alternative
+- [Postman and GitHub Actions](https://github.com/qasimmahmood95/postman-api-automation) - Newman-driven suite with JSON Schema validation and data-driven regression
+- [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-api-automation-ts) - typed API clients with zod contract validation and ADR-documented design
+- [Cypress and JavaScript](https://github.com/qasimmahmood95/cypress-api-automation-js) - service-object architecture with Ajv schema validation and hermetic container CI
+- [Python, Pytest and Requests](https://github.com/qasimmahmood95/python-api-automation) - pydantic strict contracts, mypy, a 3.11 to 3.13 matrix and Allure reporting
+- [Bruno](https://github.com/qasimmahmood95/bruno-api-automation) - full CRUD lifecycle with request chaining, dual-layer assertions and hermetic CI
 
-## 🌱 Currently tinkering with ##
-- **Contract testing** with Pact across event-driven microservices
-- **Performance testing** patterns with k6 for financial transaction flows
+## 🌱 Currently building ##
+- [VaultChain](https://github.com/qasimmahmood95/vaultchain) - growing the compliance-gated test architecture for a custody platform that doesn't exist (the bugs are real, though)
+- [flake-forensics](https://github.com/qasimmahmood95/flake-forensics) - teaching CI to tell the difference between flaky and broken
+- [test-evidence-packs](https://github.com/qasimmahmood95/test-evidence-packs) - making test evidence something an auditor can actually trust
 
 ## ⚡️ Where to find me ##
-<p><a target="_blank" href="https://www.linkedin.com/in/qmahmood95" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/qmahmood95" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <a target="_blank" href="https://qasimmahmood.org" style="display: inline-block;"><img src="https://img.shields.io/badge/qasimmahmood.org-website?style=for-the-badge&logo=cloudflarepages&logoColor=white&color=%23f38020" alt="personal website" /></a>
+</p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qasimmahmood95&show_icons=true&locale=en&layout=compact" alt="qasimmahmood95" /></p>
