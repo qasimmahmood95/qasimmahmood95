@@ -37,8 +37,6 @@ I break software professionally so your users don't have to. I'm a Senior SDET a
     <td><a target="_blank" href="https://cucumber.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="42" height="42" /></a></td>
     <td><a target="_blank" href="https://jestjs.io/"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a></td>
     <td><a target="_blank" href="https://mochajs.org/"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="42" height="42" /></a></td>
-  </tr>
-  <tr>
     <td><a target="_blank" href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42" /></a></td>
     <td><a target="_blank" href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="42" height="42" /></a></td>
     <td><a target="_blank" href="https://k6.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg" alt="k6" width="42" height="42" /></a></td>
@@ -78,7 +76,12 @@ I break software professionally so your users don't have to. I'm a Senior SDET a
 
 ## ⚡️ Where to find me ##
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/qmahmood95" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-  <a target="_blank" href="https://qasimmahmood.org" style="display: inline-block;"><img src="https://img.shields.io/badge/qasimmahmood.org-website?style=for-the-badge&logo=cloudflarepages&logoColor=white&color=%23f38020" alt="personal website" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/qmahmood95" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge" alt="linkedin" /></a>
+  <a target="_blank" href="https://qasimmahmood.org" style="display: inline-block;"><img src="https://img.shields.io/badge/qasimmahmood.org-f38020?style=for-the-badge" alt="personal website" /></a>
 </p>
-<p><img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages by repo" width="360" /></p>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages by repo" width="360">
+  </picture>
+</p>
