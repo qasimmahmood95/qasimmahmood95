@@ -76,11 +76,6 @@ I break software professionally so your users don't have to. I'm a Senior SDET a
 - [Python, Pytest and Requests](https://github.com/qasimmahmood95/python-api-automation) - pydantic strict contracts, mypy, a 3.11 to 3.13 matrix and Allure reporting
 - [Bruno](https://github.com/qasimmahmood95/bruno-api-automation) - full CRUD lifecycle with request chaining, dual-layer assertions and hermetic CI
 
-## 🌱 Currently building ##
-- [VaultChain](https://github.com/qasimmahmood95/vaultchain) - growing the compliance-gated test architecture for a custody platform that doesn't exist (the bugs are real, though)
-- [flake-forensics](https://github.com/qasimmahmood95/flake-forensics) - teaching CI to tell the difference between flaky and broken
-- [test-evidence-packs](https://github.com/qasimmahmood95/test-evidence-packs) - making test evidence something an auditor can actually trust
-
 ## ⚡️ Where to find me ##
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/qmahmood95" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
