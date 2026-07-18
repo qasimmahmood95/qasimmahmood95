@@ -17,6 +17,7 @@ I break software professionally so your users don't have to. I'm a Senior SDET a
 - [Playwright and TypeScript](https://github.com/qasimmahmood95/playwright-web-automation-ts) - cross-browser E2E suite with accessibility, visual and performance test dimensions
 - [Cypress and JavaScript](https://github.com/qasimmahmood95/cypress-web-automation-js) - E2E framework with session-cached auth and axe accessibility gating
 - [TestCafe and Cucumber](https://github.com/qasimmahmood95/direct-ferries-automation-test) - BDD E2E suite with a cross-browser CI matrix and nightly runs
+- [qasimmahmood.org](https://github.com/qasimmahmood95/qasimmahmood.org) - my personal site, which ships with its own cross-browser Playwright suite (the philosophy above applies to my own code too)
 
 ### API: ###
 - [Postman and GitHub Actions](https://github.com/qasimmahmood95/postman-api-automation) - Newman-driven suite with JSON Schema validation and data-driven regression
