@@ -81,4 +81,3 @@ I break software professionally so your users don't have to. I'm a Senior SDET a
   <a target="_blank" href="https://www.linkedin.com/in/qmahmood95" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
   <a target="_blank" href="https://qasimmahmood.org" style="display: inline-block;"><img src="https://img.shields.io/badge/qasimmahmood.org-website?style=for-the-badge&logo=cloudflarepages&logoColor=white&color=%23f38020" alt="personal website" /></a>
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qasimmahmood95&show_icons=true&locale=en&layout=compact" alt="qasimmahmood95" /></p>
